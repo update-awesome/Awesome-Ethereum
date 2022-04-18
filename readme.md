@@ -37,8 +37,8 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 
 Official Ethereum Documentation.
 
-- [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
-- [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
+- <code>&nbsp;14340</code> ![](https://img.shields.io/github/last-commit/ethereum/wiki) [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
+- <code>&nbsp;14340</code> ![](https://img.shields.io/github/last-commit/ethereum/wiki) [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
 
@@ -48,7 +48,7 @@ Official Ethereum Documentation.
 - [Truffle Framework](https://www.truffleframework.com/) - Development environment for blockchain applications.
 - [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
 - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
-- [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
+- <code>&nbsp;&nbsp;3584</code> ![](https://img.shields.io/github/last-commit/embark-framework/embark) [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 - [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 
@@ -81,7 +81,7 @@ Step by step guides on using Ethereum.
 Learn about the theory behind Ethereum.
 
 - [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - Question and answers about Ethereum.
-- [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum wiki on best practices for safety in smart contracts.
+- <code>&nbsp;14340</code> ![](https://img.shields.io/github/last-commit/ethereum/wiki) [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum wiki on best practices for safety in smart contracts.
 - [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/) - Functional description of Ethereum accounts, gas and transactions.
 - [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/) - Practice hacking Smart Contracts.
 - [Ethereum Syllabus](https://novicedock.com/learn/cryptocurrency/ethereum) - Syllabus to learn Ethereum.
@@ -97,7 +97,7 @@ Learn about the theory behind Ethereum.
 The Ideas behind the Ethereum Project.
 
 - [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf) - Smart contract security attacks.
-- [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - Some of the core philosophies of Ethereum.
+- <code>&nbsp;&nbsp;&nbsp;&nbsp;26</code> ![](https://img.shields.io/github/last-commit/ethereum/ethereum.org) [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - Some of the core philosophies of Ethereum.
 - [Ethereum Improvement Proposals](https://eips.ethereum.org/) - Standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
 
@@ -112,7 +112,7 @@ The Ideas behind the Ethereum Project.
 
 - [MetaMask](https://metamask.io/) - Browser extension that can interact with Remix IDE and send transactions to different testnets.
 - [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
-- [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
+- <code>&nbsp;&nbsp;7410</code> ![](https://img.shields.io/github/last-commit/ethereum/mist) [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
 - [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
 
 ## Blockchain Utilities
@@ -129,23 +129,23 @@ The Ideas behind the Ethereum Project.
 Descriptions and implementations of Ethereum-related protocols.
 
 - [Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.
-- [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
-- [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
+- <code>&nbsp;14340</code> ![](https://img.shields.io/github/last-commit/ethereum/wiki) [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
+- <code>&nbsp;14340</code> ![](https://img.shields.io/github/last-commit/ethereum/wiki) [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
   - Casper CBC - Correct by Construction for full Proof-of-Stake.
-    - [Code Repository](https://github.com/ethereum/cbc-casper) - A python implementation of a class of correct-by-construction consensus protocols.
-    - [CBC Wiki](https://github.com/ethereum/cbc-casper/wiki)
-    - [CBC Research Paper](https://github.com/ethereum/research/blob/master/papers/cbc-consensus/AbstractCBC.pdf)
+    - <code>&nbsp;&nbsp;&nbsp;223</code> ![](https://img.shields.io/github/last-commit/ethereum/cbc-casper) [Code Repository](https://github.com/ethereum/cbc-casper) - A python implementation of a class of correct-by-construction consensus protocols.
+    - <code>&nbsp;&nbsp;&nbsp;223</code> ![](https://img.shields.io/github/last-commit/ethereum/cbc-casper) [CBC Wiki](https://github.com/ethereum/cbc-casper/wiki)
+    - <code>&nbsp;&nbsp;1262</code> ![](https://img.shields.io/github/last-commit/ethereum/research) [CBC Research Paper](https://github.com/ethereum/research/blob/master/papers/cbc-consensus/AbstractCBC.pdf)
   - Casper FFG - Friendly Finality Gadget for PoS validation with Proof-of-Work.
-    - [Code Repository](https://github.com/ethereum/casper) - The FFG contract, related software and tests.
+    - <code>&nbsp;&nbsp;&nbsp;672</code> ![](https://img.shields.io/github/last-commit/ethereum/casper) [Code Repository](https://github.com/ethereum/casper) - The FFG contract, related software and tests.
     - [Casper the Friendly Finality Gadget Paper](https://arxiv.org/abs/1710.09437) - Research paper detailing FFG.
-  - [PoS FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
+  - <code>&nbsp;14340</code> ![](https://img.shields.io/github/last-commit/ethereum/wiki) [PoS FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
   - [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) - A Stack Exchange comparison of FFG and CBC.
-- [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
-- [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's JavaScript API.
-- [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm.
+- <code>&nbsp;14340</code> ![](https://img.shields.io/github/last-commit/ethereum/wiki) [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
+- <code>&nbsp;14332</code> ![](https://img.shields.io/github/last-commit/ethereum/web3.js) [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's JavaScript API.
+- <code>&nbsp;14340</code> ![](https://img.shields.io/github/last-commit/ethereum/wiki) [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm.
 - zk-SNARKS - Verify knowledge of a secret without revealing it.
   - [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS.
-  - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
+  - <code>&nbsp;&nbsp;&nbsp;253</code> ![](https://img.shields.io/github/last-commit/jstoxrocky/zksnarks_example) [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
   - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
   - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
   - [Practical zk-SNARKs for Ethereum](http://coders-errand.com/practical-zk-snarks-for-ethereum/) - A short and practical introduction to using zk-SNARKs.
@@ -157,7 +157,7 @@ Descriptions and implementations of Ethereum-related protocols.
 
 ## Books
 
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
+- <code>&nbsp;14373</code> ![](https://img.shields.io/github/last-commit/ethereumbook/ethereumbook) [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
 - [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
 - [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liason.
 
@@ -183,7 +183,7 @@ Descriptions and implementations of Ethereum-related protocols.
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+Inspired by <code>124031</code> ![](https://img.shields.io/github/last-commit/vinta/awesome-python) [Awesome Python](https://github.com/vinta/awesome-python) and <code>&nbsp;53985</code> ![](https://img.shields.io/github/last-commit/josephmisiti/awesome-machine-learning) [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License
 
